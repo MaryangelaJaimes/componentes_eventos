@@ -28,7 +28,7 @@ const Formulario = ({ setAlert }) => {
       return;
     }
 
-    setAlert({ message: "Guardado con Éxito", color: "success" });
+    setAlert({ message: "Registro Exitoso", color: "success" });
     setName("");
     setEmail("");
     setPassword("");
