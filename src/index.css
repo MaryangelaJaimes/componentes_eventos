@@ -1,0 +1,14 @@
+body {
+  margin: 0;
+  display: flex;
+  place-items: center;
+  min-width: 320px;
+  min-height: 100vh;
+  background: -webkit-linear-gradient(90deg, #99244f, #f7ce46);
+  background: linear-gradient(90deg, #99244f, #f7ce46);
+}
+
+h1 {
+  font-size: 3.2em;
+  line-height: 1.1;
+}
